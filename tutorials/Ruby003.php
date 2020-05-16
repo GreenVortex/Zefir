@@ -12,7 +12,7 @@
 <body>
     <section class="section">
         <div class="container">
-            <a href="../Secure.html">
+            <a href="../index.html">
                 <h1 class="title animated pulse">        Zefir Repository   <img src="../img/logo.png" width="150" height="150" align="right">   </h1>
                 <p class="subtitle animated bounceInRight"> A <strong>Hacker's</strong> World </p>
             </a>
