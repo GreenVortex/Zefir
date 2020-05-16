@@ -52,7 +52,7 @@
 	  <!--Windows-->
         <article class="tile is-child notification is-dark">
           <p class="title">Windows</p>
-		  <p class="subtitle">1.Visit <a href="https://cnhv.co/aokb">this</a> website in your Browser or click here to <a href="https://cnhv.co/aoki">download</a></p>
+		  <p class="subtitle">1.Visit <a href="https://rubyinstaller.org/downloads/">this</a> website in your Browser</p>
 		  <figure>
 		  <img src="../img/ruby001-1.JPG">
 		      <figcaption>
