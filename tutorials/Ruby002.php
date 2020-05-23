@@ -32,7 +32,7 @@
                 <div class="tile is-vertical is-10">
                     <div class="tile">
                         <div class="tile is-parent is-vertical">
-                            <article class="tile is-child notification is-dark">
+                            <article class="tile is-child notification is-danger">
                                 <p class="title">Basic Operations in Ruby</p>
                                 <p class="subtitle">A Guide to Ruby Basics</p>
                             </article>
@@ -46,7 +46,7 @@
                     <div class="tile is-vertical is-5">
                         <div class="tile">
                             <div class="tile is-parent is-vertical">
-                                <article class="tile is-child notification is-dark">
+                                <article class="tile is-child notification is-danger">
                                     <p class="title">Hello World!</p>
                                     <p class="subtitle">Writing a Hello World Application</p>
                                     </br>

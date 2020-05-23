@@ -34,7 +34,7 @@
   <div class="tile is-vertical is-10">
     <div class="tile">
       <div class="tile is-parent is-vertical">
-        <article class="tile is-child notification is-dark">
+        <article class="tile is-child notification is-danger">
           <p class="title">Installing Ruby</p>
           <p class="subtitle">A Guide on how to install Ruby on Linux and Windows</p>
         </article>
@@ -49,7 +49,7 @@
     <div class="tile">
       <div class="tile is-parent is-vertical">
 	  <!--Windows-->
-        <article class="tile is-child notification is-dark">
+        <article class="tile is-child notification is-danger">
           <p class="title">Windows</p>
 		  <p class="subtitle">1.Visit <a href="https://rubyinstaller.org/downloads/">this</a> website in your Browser</p>
 		  <figure>
@@ -93,7 +93,7 @@
         </article>
 		</br>
 			  <!--Linux-->
-        <article class="tile is-child notification is-dark">
+        <article class="tile is-child notification is-danger">
           <p class="title">Linux</p>
           <pre>1:On Ubuntu, go to Applications ▶ Accessories ▶ Terminal
 2:This differs between distributions, but on Ubuntu run the following command:sudo apt-get install ruby-full
@@ -110,7 +110,7 @@ puts "Hello world!"
 If Ruby was installed correctly you should see this output
 		  </pre>
         </article>
-        <article class="tile is-child notification is-dark">
+        <article class="tile is-child notification is-danger">
           <p class="subtitle">If Ruby was installed correctly you should see this output</p>
           <pre>Hello world!
 		  </pre>

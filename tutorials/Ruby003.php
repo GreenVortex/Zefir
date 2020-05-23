@@ -32,7 +32,7 @@
                 <div class="tile is-vertical is-10">
                     <div class="tile">
                         <div class="tile is-parent is-vertical">
-                            <article class="tile is-child notification is-dark">
+                            <article class="tile is-child notification is-danger">
                                 <p class="title">Ruby Interactive Shell</p>
                                 <p class="subtitle">A Guide to Ruby Basics</p>
                             </article>
@@ -46,7 +46,7 @@
                     <div class="tile is-vertical is-8">
                         <div class="tile">
                             <div class="tile is-parent is-vertical">
-                                <article class="tile is-child notification is-dark">
+                                <article class="tile is-child notification is-danger">
                                     <p class="title">Startup</p>
                                     <p class="subtitle">Launching IRB</p>
                                     </br>
@@ -59,7 +59,7 @@
 
                                 </br>
 
-                                <article class="tile is-child notification is-dark">
+                                <article class="tile is-child notification is-danger">
                                     <p class="title">Calculator</p>
                                     <p class="subtitle">You can use ruby as a free calculator with all the functions</p>
                                     </br>
@@ -75,7 +75,7 @@
                                    </article>
 								</br>
 
-                                <article class="tile is-child notification is-dark">
+                                <article class="tile is-child notification is-danger">
                                     <p class="title">Getting values from user input</p>
                                     <p class="subtitle">You can get direct input from your programs user this is useful when you need to gather information to use for example a name</p>
                                     </br>
