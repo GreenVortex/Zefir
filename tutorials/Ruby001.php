@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body>
+<body style="overflow-x:hidden;">
   <section class="section">
     <div class="container">
        <a href="../index.html">  <h1 class="title animated pulse">
