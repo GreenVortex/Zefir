@@ -24,8 +24,8 @@
   <div class="container is-widescreen">
 <div class="tabs is-small">
   <ul>
-  	<li><a href="Tutorials.html">Tutorials</a></li>
-    <li><a href="Projects.html">Projects</a></li>
+  	<li><a href="Tutorials.php">Tutorials</a></li>
+    	<li><a href="Projects.php">Projects</a></li>
   </ul>
 </div>
 </div>
