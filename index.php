@@ -7,11 +7,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-
 <body style="overflow-x:hidden;">
   <section class="section">
     <div class="container">
-     <a href="index.html"> <h1 class="title animated pulse">
+     <a href="index.php"> <h1 class="title animated pulse">
         Zefir Repository <img src="img/logo.png" width="150px" height="150px" align="right">
       </h1>
       <p class="subtitle animated bounceInLeft">
@@ -22,7 +21,7 @@
   </section>
   <br/><br/>
   <div class="container is-widescreen">
-<div class="tabs is-small">
+<div class="tabs is-medium">
   <ul>
   	<li><a href="Tutorials.php">Tutorials</a></li>
     	<li><a href="Projects.php">Projects</a></li>
