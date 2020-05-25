@@ -49,9 +49,6 @@
 </section>
 <footer class="footer">
   <div class="container">
-  <h1 class="title">
- Available Coarses
-  </h1>
  <!--Coarse01-->
  <div class="tile is-ancestor">
   <div class="tile is-vertical is-6">
@@ -74,6 +71,15 @@
 		  </article>
 
       </div>
+</footer>
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p>
+        Zefir Repository is a collection of projects and tutorials by <strong><a href="https://www.linkedin.com/in/typicaljohan/">Jan Andersson</a></strong> Hosted on <a href="https://secure.ecohosting.co.uk/aff.php?aff=152&gid=28"><strong>EcoHost</strong>.<a/>
+      </p>
+    </div>
+  </div>
 </footer>
 <!--end of Ruby Coarses-->
 </div>
