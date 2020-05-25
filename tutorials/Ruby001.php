@@ -20,9 +20,11 @@
 	  </a>
     </div>
   </section>
+    <br/><br/>
   <div class="container is-widescreen">
-<div class="tabs is-small animated lightSpeedIn">
+<div class="tabs is-medium animated lightSpeedIn">
   <ul>
+  <li><a href="../Tutorials.php">Back</a></li>
   </ul>
 </div>
 </div>

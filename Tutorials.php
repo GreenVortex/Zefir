@@ -20,9 +20,11 @@
 	  </a>
     </div>
   </section>
+    <br/><br/>
   <div class="container is-widescreen">
-<div class="tabs is-small">
+<div class="tabs is-medium">
   <ul>
+  <li><a href="index.php">Back</a></li>
   </ul>
 </div>
 </div>

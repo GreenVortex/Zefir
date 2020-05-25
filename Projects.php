@@ -11,7 +11,7 @@
   <section class="section">
     <div class="container">
        <a href="index.php">  <h1 class="title animated pulse">
-        Zefir Repository<img src="img/logo.png" width="150px" height="150px" align="right">
+        Zefir Repository<img src="img/logo.png" width="150" height="150" align="right">
       </h1>
       <p class="subtitle animated bounceInleft">
         A <strong>Hacker's</strong> World
@@ -19,9 +19,11 @@
 	  </a>
     </div>
   </section>
+    <br/><br/>
   <div class="container">
-<div class="tabs is-small">
+<div class="tabs is-medium">
   <ul>
+    <li><a href="index.php">Back</a></li>
   </ul>
 </div>
 </div>
@@ -52,6 +54,14 @@
         <p class="card-header-title">
           NESS
         </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-success">Release</span>
+    </div>
+  </div>
+    </div>
       </header>
       <div class="card-content">
         <div class="content">
@@ -74,6 +84,14 @@
         <p class="card-header-title">
           Verdugo
         </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-success">Release</span>
+    </div>
+  </div>
+  </div>
       </header>
       <div class="card-content">
         <div class="content">
@@ -96,6 +114,14 @@
         <p class="card-header-title">
           IP-Catcher
         </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-warning">In Development</span>
+    </div>
+  </div>
+    </div>
       </header>
       <div class="card-content">
         <div class="content">
@@ -118,6 +144,14 @@
         <p class="card-header-title">
           MsgCrypt
         </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-warning">In Development</span>
+    </div>
+  </div>
+    </div>
       </header>
       <div class="card-content">
         <div class="content">
@@ -151,11 +185,19 @@
     <br/>
 
     <!--Card01-->
-    <div class="card" style="width: 75%;height: 20%px;margin: auto;">
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">
         <p class="card-header-title">
           Shard
         </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-success">Release</span>
+    </div>
+  </div>
+    </div>
       </header>
       <div class="card-content">
         <div class="content">
@@ -173,11 +215,19 @@
     <br/>
 
     <!--Card02-->
-    <div class="card" style="width: 75%;height: 20%px;margin: auto;">
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">
         <p class="card-header-title">
           Ruby ChatBot
         </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-danger">Depreciated</span>
+    </div>
+  </div>
+    </div>
       </header>
       <div class="card-content">
         <div class="content">
@@ -195,11 +245,19 @@
     <br/>
 
     <!--Card03-->
-    <div class="card" style="width: 75%;height: 20%px;margin: auto;">
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">
         <p class="card-header-title">
           TheGame
         </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-warning">In Development</span>
+    </div>
+  </div>
+    </div>
       </header>
       <div class="card-content">
         <div class="content">
@@ -233,11 +291,19 @@
     <br/>
 
     <!--Card01-->
-    <div class="card" style="width: 75%;height: 20%px;margin: auto;">
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">
         <p class="card-header-title">
           Stappwatch
         </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-danger">Depreciated</span>
+    </div>
+  </div>
+    </div>
       </header>
       <div class="card-content">
         <div class="content">
@@ -255,11 +321,19 @@
     <br/>
 
     <!--Card02-->
-    <div class="card" style="width: 75%;height: 20%px;margin: auto;">
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">
         <p class="card-header-title">
           Dungeons and dice
         </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-danger">Depreciated</span>
+    </div>
+  </div>
+    </div>
       </header>
       <div class="card-content">
         <div class="content">
@@ -297,11 +371,19 @@
     <br/>
 
     <!--Card01-->
-    <div class="card" style="width: 75%;height: 20%px;margin: auto;">
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">
         <p class="card-header-title">
           NeoGaeilge
         </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-danger">Depreciated</span>
+    </div>
+  </div>
+    </div>
       </header>
       <div class="card-content">
         <div class="content">
