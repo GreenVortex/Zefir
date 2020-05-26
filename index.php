@@ -40,25 +40,30 @@
   <div class="column is-one-quarter">
   </br>
   <p class="title">
-Updates
+About me
 </p>
 <!--Notify03-->
 <div class="card">
   <header class="card-header">
     <p class="card-header-title">
-     A rebirth of the website!
+     Jan Andersson
     </p>
-    <a href="#" class="card-header-icon" aria-label="more options">
-    </a>
+    <div class="control">
+      <div class="tags has-addons">
+        <span class="tag is-dark">Software Development</span>
+        <span class="tag is-success">HnD</span>
+      </div>
+    </div>
   </header>
   <div class="card-content">
     <div class="content">
-    The website is coming back and strong!
-
+    I am creative and IT-focused with a strive to learn more and expand my knowledge. I have a fascination for IoT and mobile technologies, but given a challenge, I will be more than content to explore new employment possibilities.
       <br>
-      <time datetime="2020-05-15">22:04 - 15 May 2020</time>
     </div>
   </div>
+  <footer class="card-footer">
+      <a href="documents/cv.pdf" target="_blank" class="card-footer-item" ><button class="button" style="width:90%";>Resume</button></a>
+  </footer>
 </div>
 </div>
 
@@ -68,25 +73,29 @@ Updates
 <p class="title">
 News
 </p>
+<!--news1-->
 <div class="card">
   <header class="card-header">
-    <p class="card-header-title">No News
+    <p class="card-header-title">GoLang fever!
     </p>
     <a href="#" class="card-header-icon" aria-label="more options">
     </a>
   </header>
   <div class="card-content">
-    <div class="content">...
+    <div class="content">Started learning Golang hopefully will get some results in the shape of some new multi-threaded projects.
       <br>
-      <time datetime="2017-12-6">8:23 PM - 15 May 2020</time>
+      <time datetime="2020-26-05">8:23 PM - 26 May 2020</time>
     </div>
   </div>
-</div>  <div class="card">
+</div>
+</br>
+<!--news2-->
+<div class="card">
   <header class="card-header">
-    <p class="card-header-title">No news    </p>
+    <p class="card-header-title">In kahoots!    </p>
         <a href="#" class="card-header-icon" aria-label="more options">    </a>  </header>
-        <div class="card-content">    <div class="content">... <br>
-           <time datetime="2017-12-6">8:23 PM - 15 May 2020</time>    </div>  </div></div>
+        <div class="card-content">    <div class="content">Started an offical collaboration with EcoHost as an affiliate! <br>
+           <time datetime="2020-15-5">8:23 PM - 15 May 2020</time>    </div>  </div></div>
 
 </div>
 </div>

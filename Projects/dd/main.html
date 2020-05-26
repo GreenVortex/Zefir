@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <title>Dungeons and Dice</title>
+    <link rel="stylesheet" href="lib/framework7/css/framework7.material.css">
+    <link rel="stylesheet" href="lib/framework7/css/framework7.material.colors.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/uikit.min.css" />
+    <script src="js/uikit.min.js"></script>
+    <script src="js/uikit-icons.min.js"></script>
+</head>
+<body class="theme-dark">
+
+<!-- Audio player-->
+
+<!-- End off Audio player-->
+
+<script>
+//Function for Generating dice number
+function NumGen() {
+  document.getElementById("GenNum").innerHTML = Math.floor(Math.random() * DiceNumber) + 1;
+   }
+</script>
+
+  <style>
+  #MiddleGround {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    z-index: 15;
+    top: 30%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+}
+  #GenNum {
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 75px;
+  color: #2196f3;
+}
+#gerry {
+  font-family: 'Julius Sans One', sans-serif;
+  color: white;
+}
+#Slider{
+  color: #2196f3;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 20px;
+}
+#ContainerDice{
+
+}
+  </style>
+
+    <div class="statusbar-overlay"></div>
+    <div class="panel-overlay"></div>
+    <div class="panel panel-left panel-reveal">
+      <!--Panel content -->
+
+    </div>
+
+    <div class="views">
+        <div class="view view-main">
+            <div class="navbar">
+                <div class="navbar-inner">
+                  <div class="left">
+                      <a href="#" class="link icon-only open-panel"><i class="icon icon-bars"></i></a>
+                  </div>
+                    <div id="gerry" class="sliding middle">Dungeons and Dice</div>
+                </div>
+            </div>
+            <div class="pages navbar-through toolbar-through">
+                <div data-page="index" class="page">
+                    <div class="page-content">
+                        <div class="content-block">
+                            <div id="MiddleGround">
+                            <center>  <h1 class="animated pulse delay-1s" id="GenNum">Number</h1> </center>
+                              <img class="animated wobble slow delay-1s" src="img/dice.png" height="300px" width="300px" onclick="javascript:NumGen();">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="toolbar">
+                  <center>
+                  <img src="img/D4.svg" height="100%" width="50" onclick="DiceNumber = 4;">
+                  <img src="img/D6.svg" height="100%" width="50" onclick="DiceNumber = 6;">
+                  <img src="img/D8.svg" height="100%" width="50" onclick="DiceNumber = 8;">
+                  <img src="img/D10.svg" height="100%" width="50" onclick="DiceNumber = 10;">
+                  <img src="img/D12.svg" height="100%" width="50" onclick="DiceNumber = 12;">
+                  <img src="img/D20.svg" height="100%" width="50" onclick="DiceNumber = 20;">
+                </center>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="lib/framework7/js/framework7.min.js"></script>
+    <script type="text/javascript" src="js/my-app.js"></script>
+</body>
+
+</html>
