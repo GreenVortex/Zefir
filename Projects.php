@@ -354,7 +354,7 @@
 <!--Columns 2-->
 <div class="columns" style="overflow-y: hidden;">
   <div class="column is-one-third">
-    <!--Title Bar for Cordova-->
+    <!--Title Bar for android-->
     <section class="hero is-success">
       <div class="hero-body">
         <div class="container">
@@ -399,6 +399,52 @@
     </div>
     <!--Card01-->
   </div>
+  <div class="column is-one-third">
+    <!--Title Bar for Exploits-->
+    <section class="hero is-primary">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title">
+            Exploits
+          </h1>
+          <h2 class="subtitle">
+            All my malware applications and exploit projects working with security protocols.
+          </h2>
+        </div>
+      </div>
+    </section>
+    <!--Title Bar end-->
+    <br/>
+
+    <!--Card01-->
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
+      <header class="card-header">
+        <p class="card-header-title">
+          Lomp
+        </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">State</span>
+      <span class="tag is-success">Release</span>
+    </div>
+  </div>
+    </div>
+      </header>
+      <div class="card-content">
+        <div class="content">
+An annoying piece of malware, that roots itself within the registry with random keys and runs on startup with annoying TTS popups that can only be remved by killing the processes individually.
+          <br>
+        </div>
+      </div>
+      <footer class="card-footer">
+        <a href="#"  class="card-footer-item"><button class="button is-primary" style="width:90%;" disabled>View</button></a>
+        <a href="https://github.com/GreenVortex/Lomp/archive/master.zip" class="card-footer-item"><button class="button is-primary" style="width:90%;">Download</button></a>
+        <a href="https://github.com/greenvortex/lomp" class="card-footer-item"><button class="button is-primary" style="width:90%";>Github</button></a>
+      </footer>
+    </div>
+    <!--Card01-->
+    <div/>
 </div>
 <!--Content end-->
 
