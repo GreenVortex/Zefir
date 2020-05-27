@@ -27,11 +27,10 @@
   </ul>
 </div>
 </div>
-<br/><br/>
 
 <!--Content-->
 <!--Title Projects-->
-<section class="hero is-dark">
+<section class="hero">
   <div class="hero-body">
     <div class="container">
       <h1 class="title">
@@ -136,6 +135,35 @@
     </div>
     <!--IPCatcher-->
     <br/>
+    <!--MsgCrypt-->
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
+      <header class="card-header">
+        <p class="card-header-title">
+          MsgCrypt
+        </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">C#</span>
+      <span class="tag is-warning">In Development</span>
+    </div>
+  </div>
+    </div>
+      </header>
+      <div class="card-content">
+        <div class="content">
+          <br/>
+    A simple string encoding program with a lite UI suitable for messaging and note encryption.
+          <br>
+        </div>
+      </div>
+      <footer class="card-footer">
+        <a href="https://github.com/GreenVortex/MsgCrypt/archive/master.zip" class="card-footer-item"><button class="button is-dark" style="width:90%;">Download</button></a>
+        <a href="https://github.com/greenvortex/MsgCrypt" class="card-footer-item"><button class="button is-dark" style="width:90%";>Github</button></a>
+      </footer>
+    </div>
+    <!--MsgCrypt-->
+
   </div>
   <div class="column is-one-third">
     <br/>
@@ -178,7 +206,7 @@
   <div class="control">
     <div class="tags has-addons">
       <span class="tag is-dark">Ruby</span>
-      <span class="tag is-danger">Depreciated</span>
+      <span class="tag is-warning">In Development</span>
     </div>
   </div>
     </div>
@@ -265,7 +293,7 @@ An annoying piece of malware, that roots itself within the registry with random 
   <div class="control">
     <div class="tags has-addons">
       <span class="tag is-dark">Cordova-JS</span>
-      <span class="tag is-danger">Depreciated</span>
+      <span class="tag is-success">Release</span>
     </div>
   </div>
     </div>
@@ -278,6 +306,8 @@ An annoying piece of malware, that roots itself within the registry with random 
       </div>
       <footer class="card-footer">
         <a href="Projects/Stappwatch/" target="_blank" class="card-footer-item"><button class="button is-warning" style="width:90%;">Launch</button></a>
+      </footer>
+      <footer class="card-footer">
         <a href="https://github.com/GreenVortex/Stappwatch/archive/master.zip" class="card-footer-item"><button class="button is-warning" style="width:90%;">Download</button></a>
         <a href="https://github.com/greenvortex/Stappwatch" class="card-footer-item"><button class="button is-warning" style="width:90%";>Github</button></a>
       </footer>
@@ -289,7 +319,7 @@ An annoying piece of malware, that roots itself within the registry with random 
     <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">
         <p class="card-header-title">
-          Dungeons and dice
+          D&D
         </p>
         <div class="field is-grouped is-grouped-multiline">
   <div class="control">
@@ -308,6 +338,8 @@ An annoying piece of malware, that roots itself within the registry with random 
       </div>
       <footer class="card-footer">
         <a href="Projects/dd/" target="_blank" class="card-footer-item"><button class="button is-warning" style="width:90%;">Launch</button></a>
+      </footer>
+      <footer class="card-footer">
         <a href="https://github.com/GreenVortex/Dungeons-and-dice/archive/master.zip" class="card-footer-item"><button class="button is-warning" style="width:90%;">Download</button></a>
         <a href="https://github.com/greenvortex/Dungeons-and-dice" class="card-footer-item"><button class="button is-warning" style="width:90%";>Github</button></a>
       </footer>
@@ -342,34 +374,6 @@ An annoying piece of malware, that roots itself within the registry with random 
     </div>
     <!--NeoGaeilge-->
     <br/>
-    <!--MsgCrypt-->
-    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
-      <header class="card-header">
-        <p class="card-header-title">
-          MsgCrypt
-        </p>
-        <div class="field is-grouped is-grouped-multiline">
-  <div class="control">
-    <div class="tags has-addons">
-      <span class="tag is-dark">C#</span>
-      <span class="tag is-warning">In Development</span>
-    </div>
-  </div>
-    </div>
-      </header>
-      <div class="card-content">
-        <div class="content">
-          <br/>
-    A simple string encoding program with a lite UI suitable for messaging and note encryption.
-          <br>
-        </div>
-      </div>
-      <footer class="card-footer">
-        <a href="https://github.com/GreenVortex/MsgCrypt/archive/master.zip" class="card-footer-item"><button class="button is-dark" style="width:90%;">Download</button></a>
-        <a href="https://github.com/greenvortex/MsgCrypt" class="card-footer-item"><button class="button is-dark" style="width:90%";>Github</button></a>
-      </footer>
-    </div>
-    <!--MsgCrypt-->
   </div>
 </div>
 <!--Content end-->

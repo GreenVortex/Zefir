@@ -48,12 +48,6 @@ About me
     <p class="card-header-title">
      Jan Andersson
     </p>
-    <div class="control">
-      <div class="tags has-addons">
-        <span class="tag is-dark">Software Development</span>
-        <span class="tag is-success">HnD</span>
-      </div>
-    </div>
   </header>
   <div class="card-content">
     <div class="content">
@@ -71,7 +65,7 @@ About me
 <div class="column">
 </br>
 <p class="title">
-News
+Updates
 </p>
 <!--news1-->
 <div class="card">
@@ -84,7 +78,7 @@ News
   <div class="card-content">
     <div class="content">Started learning Golang hopefully will get some results in the shape of some new multi-threaded projects.
       <br>
-      <time datetime="2020-26-05">8:23 PM - 26 May 2020</time>
+      <time datetime="2020-26-05">11:44 PM - 26 May 2020</time>
     </div>
   </div>
 </div>
