@@ -63,7 +63,6 @@
       </header>
       <div class="card-content">
         <div class="content">
-          <br/>
           A quick and easy to use readme generator for your amazing github projects.
           <br>
         </div>
@@ -93,7 +92,6 @@
       </header>
       <div class="card-content">
         <div class="content">
-          <br/>
           A cleint for managing and quick-launching desktop applications and future abilities planned for complete task automation and scheduling with the ability to assign not just application launches but also macros.
           <br>
         </div>
@@ -123,7 +121,6 @@
       </header>
       <div class="card-content">
         <div class="content">
-          <br/>
           A utility for your basic networking diagnostic needs.
           <br>
         </div>
@@ -152,7 +149,6 @@
       </header>
       <div class="card-content">
         <div class="content">
-          <br/>
     A simple string encoding program with a lite UI suitable for messaging and note encryption.
           <br>
         </div>
@@ -374,6 +370,33 @@ An annoying piece of malware, that roots itself within the registry with random 
     </div>
     <!--NeoGaeilge-->
     <br/>
+    <!--HoneyMine-->
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
+      <header class="card-header">
+        <p class="card-header-title">
+          HoneyMine
+        </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">C#</span>
+      <span class="tag is-danger">Not Supported</span>
+    </div>
+  </div>
+    </div>
+      </header>
+      <div class="card-content">
+        <div class="content">
+          A desktop monero CPU miner with CoinHive API integration. The project runs by utilizing a lite version of the chromium layer and the CoinHive API for mining. You can control all the mining preferences and intencity in the coinhive dashboard.
+          <br>
+        </div>
+      </div>
+      <footer class="card-footer">
+        <a href="https://github.com/GreenVortex/HoneyMine/archive/master.zip" class="card-footer-item"><button class="button is-dark" style="width:90%;">Download</button></a>
+        <a href="https://github.com/greenvortex/HoneyMine" class="card-footer-item"><button class="button is-dark" style="width:90%";>Github</button></a>
+      </footer>
+    </div>
+    <!--HoneyMine-->
   </div>
 </div>
 <!--Content end-->

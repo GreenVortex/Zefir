@@ -42,7 +42,7 @@
   <p class="title">
 About me
 </p>
-<!--Notify03-->
+<!--About Card-->
 <div class="card">
   <header class="card-header">
     <p class="card-header-title">
@@ -56,9 +56,13 @@ About me
     </div>
   </div>
   <footer class="card-footer">
-      <a href="documents/cv.pdf" target="_blank" class="card-footer-item" ><button class="button" style="width:90%";>Resume</button></a>
+      <a href="mailto:admin@zefir.codes" target="_blank" class="card-footer-item" ><button class="button" style="width:90%";>Contact me</button></a>
+  </footer>
+  <footer class="card-footer">
+      <a href="documents/cv.pdf" class="card-footer-item" ><button class="button" style="width:90%";>Resume</button></a>
   </footer>
 </div>
+<!--About Card-->
 </div>
 
   <!--second Column-->
