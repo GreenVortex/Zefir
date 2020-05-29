@@ -23,7 +23,6 @@
   <div class="container is-widescreen">
 <div class="tabs is-medium">
   <ul>
-  	<li><a href="Tutorials.php">Tutorials</a></li>
     	<li><a href="Projects.php">Projects</a></li>
       <li><a href="Service.php">Services</a></li>
   </ul>
@@ -74,14 +73,6 @@ Updates
 <!--news1-->
 <div class="card">
   <header class="card-header">
-    <p class="card-header-title">In kahoots!    </p>
-        <a href="#" class="card-header-icon" aria-label="more options">    </a>  </header>
-        <div class="card-content">    <div class="content">Started an offical collaboration with EcoHost as an affiliate! <br>
-           <time datetime="2020-15-5">8:23 PM - 15 May 2020</time>    </div>  </div></div>
-</br>
-<!--news2-->
-<div class="card">
-  <header class="card-header">
     <p class="card-header-title">Upscale maintenance finisihed
     </p>
     <a href="#" class="card-header-icon" aria-label="more options">
@@ -90,10 +81,18 @@ Updates
   <div class="card-content">
     <div class="content">The maintenance of the DNS AdBlock server is finished and everything is up and running smooth. Upscaled the server to accomodate for the growth in the pool of users growing each week making sure their DNS query times don't slow down as more users join. Everything is working but if you face any issues give me a shout Admin@zefir.codes
       <br>
-      <time datetime="2020-26-05">11:44 PM - 26 May 2020</time>
+      <time datetime="2020-29-05">12:44 am - 29 May 2020</time>
     </div>
   </div>
 </div>
+</br>
+<!--news2-->
+<div class="card">
+  <header class="card-header">
+    <p class="card-header-title">In kahoots!</p>
+        <a href="#" class="card-header-icon" aria-label="more options">    </a>  </header>
+        <div class="card-content">    <div class="content">Started an offical collaboration with EcoHost as an affiliate! <br>
+           <time datetime="2020-15-5">8:23 PM - 15 May 2020</time>    </div>  </div></div>
            <!--news2-->
 
 </div>
@@ -105,7 +104,7 @@ Updates
   <div class="container">
     <div class="content has-text-centered">
       <p>
-        Zefir Repository is a collection of projects and tutorials by <strong><a href="https://www.linkedin.com/in/typicaljohan/">Jan Andersson</a></strong> Hosted on <a href="https://secure.ecohosting.co.uk/aff.php?aff=152&gid=28"><strong>EcoHost</strong>.<a/>
+        Zefir Repository is a collection of projects and services by <strong><a href="https://www.linkedin.com/in/typicaljohan/">Jan Andersson</a></strong> Hosted on <a href="https://secure.ecohosting.co.uk/aff.php?aff=152&gid=28"><strong>EcoHost</strong>.<a/>
       </p>
     </div>
   </div>
