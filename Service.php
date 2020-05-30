@@ -63,7 +63,7 @@
     </p>
     <p class="card-header-title">
       BlockList:
-<span class="tag is-danger">751,869</span>
+<span class="tag is-danger">749,231</span>
     </p>
   </header>
   <div class="card-content">
