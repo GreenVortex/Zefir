@@ -310,38 +310,6 @@ An annoying piece of malware, that roots itself within the registry with random 
     </div>
     <!--Stappwatch-->
     <br/>
-
-    <!--Dungeons and dice-->
-    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
-      <header class="card-header">
-        <p class="card-header-title">
-          D&D
-        </p>
-        <div class="field is-grouped is-grouped-multiline">
-  <div class="control">
-    <div class="tags has-addons">
-      <span class="tag is-dark">Cordova-JS</span>
-      <span class="tag is-warning">In Develpment</span>
-    </div>
-  </div>
-    </div>
-      </header>
-      <div class="card-content">
-        <div class="content">
-    A dungeons and dragons guide Multi-Platform application created and designed in Apache Corodova. Modulated with UIKit and Framework7
-          <br>
-        </div>
-      </div>
-      <footer class="card-footer">
-        <a href="Projects/dd/" target="_blank" class="card-footer-item"><button class="button is-warning" style="width:90%;">Launch</button></a>
-      </footer>
-      <footer class="card-footer">
-        <a href="https://github.com/GreenVortex/Dungeons-and-dice/archive/master.zip" class="card-footer-item"><button class="button is-warning" style="width:90%;">Download</button></a>
-        <a href="https://github.com/greenvortex/Dungeons-and-dice" class="card-footer-item"><button class="button is-warning" style="width:90%";>Github</button></a>
-      </footer>
-    </div>
-    <!--Dungeons and dice-->
-    <br/>
     <!--NeoGaeilge-->
     <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">

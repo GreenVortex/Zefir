@@ -73,6 +73,22 @@ Updates
 <!--news1-->
 <div class="card">
   <header class="card-header">
+    <p class="card-header-title">Windows 10 (2004) Endpoint update on AdBlock
+    </p>
+    <a href="#" class="card-header-icon" aria-label="more options">
+    </a>
+  </header>
+  <div class="card-content">
+    <div class="content"> Updated the adblock with the new windows release endpoints, to allow for all the service domains.
+      <br>
+      <time datetime="2020-30-05">9:28 pm - 30 May 2020</time>
+    </div>
+  </div>
+</div>
+</br>
+<!--news2-->
+<div class="card">
+  <header class="card-header">
     <p class="card-header-title">Upscale maintenance finisihed
     </p>
     <a href="#" class="card-header-icon" aria-label="more options">
@@ -85,14 +101,6 @@ Updates
     </div>
   </div>
 </div>
-</br>
-<!--news2-->
-<div class="card">
-  <header class="card-header">
-    <p class="card-header-title">In kahoots!</p>
-        <a href="#" class="card-header-icon" aria-label="more options">    </a>  </header>
-        <div class="card-content">    <div class="content">Started an offical collaboration with EcoHost as an affiliate! <br>
-           <time datetime="2020-15-5">8:23 PM - 15 May 2020</time>    </div>  </div></div>
            <!--news2-->
 
 </div>
