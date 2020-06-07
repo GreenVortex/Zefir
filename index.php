@@ -4,6 +4,7 @@
 <link rel="stylesheet" href="css/font-awesome.css">
 <link rel="stylesheet" href="css/index-min.css">
 <link rel="stylesheet" href="css/animate.css">
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -44,21 +45,30 @@ About me
 <!--About Card-->
 <div class="card">
   <header class="card-header">
-    <p class="card-header-title">
-     Jan Andersson
-    </p>
-  </header>
-  <div class="card-content">
-    <div class="content">
-    I am creative and IT-focused with a strive to learn more and expand my knowledge. I have a fascination for IoT and mobile technologies, but given a challenge, I will be more than content to explore new employment possibilities.
-      <br>
+<!--ME-->
+<div class="box">
+  <article class="media">
+    <div class="media-left">
+      <figure class="image is-128x128">
+        <img class="is-rounded" src="img/test.png">
+      </figure>
     </div>
-  </div>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <strong>Jan Andersson</strong> <small>@typicaljohan</small>
+          <br>
+         A developer with a love for IoT and Desktop applications. A programming hipster dreaming in good old .Net framework🤓
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+<!--ME-->
+  </header>
   <footer class="card-footer">
+      <a href="documents/cv.pdf" target="_blank" class="card-footer-item" ><button class="button" style="width:90%";>Resume</button></a>
       <a href="mailto:admin@zefir.codes" target="_blank" class="card-footer-item" ><button class="button" style="width:90%";>Contact me</button></a>
-  </footer>
-  <footer class="card-footer">
-      <a href="documents/cv.pdf" class="card-footer-item" ><button class="button" style="width:90%";>Resume</button></a>
   </footer>
 </div>
 <!--About Card-->
@@ -89,7 +99,7 @@ Updates
 <!--news2-->
 <div class="card">
   <header class="card-header">
-    <p class="card-header-title">Upscale maintenance finisihed
+    <p class="card-header-title">Upscale maintenance finished
     </p>
     <a href="#" class="card-header-icon" aria-label="more options">
     </a>
