@@ -92,7 +92,7 @@
       </header>
       <div class="card-content">
         <div class="content">
-          A cleint for managing and quick-launching desktop applications and future abilities planned for complete task automation and scheduling with the ability to assign not just application launches but also macros.
+          A client for managing and quick-launching desktop applications and future abilities planned for complete task automation and scheduling with the ability to assign not just application launches but also macros.
           <br>
         </div>
       </div>

@@ -1,11 +1,11 @@
 <html>
-<head>
+<head><meta charset="big5">
 <title>A Hacker's world</title>
 <link rel="stylesheet" href="css/font-awesome.css">
 <link rel="stylesheet" href="css/index-min.css">
 <link rel="stylesheet" href="css/animate.css">
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<meta charset="utf-8">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body style="overflow-x:hidden;">
@@ -50,7 +50,7 @@ About me
   <article class="media">
     <div class="media-left">
       <figure class="image is-128x128">
-        <img class="is-rounded" src="img/test.png">
+        <img class="is-rounded" src="img/profile.png">
       </figure>
     </div>
     <div class="media-content">
@@ -122,7 +122,7 @@ Updates
   <div class="container">
     <div class="content has-text-centered">
       <p>
-        Zefir Repository is a collection of projects and services by <strong><a href="https://www.linkedin.com/in/typicaljohan/">Jan Andersson</a></strong> Hosted on <a href="https://secure.ecohosting.co.uk/aff.php?aff=152&gid=28"><strong>EcoHost</strong>.<a/>
+        Zefir Repository is a collection of projects and services by <strong><a href="https://www.linkedin.com/">Jan Andersson</a></strong> Hosted on <a href="https://secure.ecohosting.co.uk/aff.php?aff=152&gid=28"><strong>EcoHost</strong>.<a/>
       </p>
     </div>
   </div>
