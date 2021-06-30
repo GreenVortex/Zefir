@@ -58,7 +58,7 @@ About me
         <p>
           <strong>Jan Andersson</strong> <small>@typicaljohan</small>
           <br>
-         A developer with a love for IoT and Desktop applications. A programming hipster dreaming in good old .Net framework🤓
+         A software developer with a focus on IoT and Ai with massive love for multiplatform applications.
         </p>
       </div>
     </div>
@@ -68,7 +68,7 @@ About me
   </header>
   <footer class="card-footer">
       <a href="documents/cv.pdf" target="_blank" class="card-footer-item" ><button class="button" style="width:90%";>Resume</button></a>
-      <a href="mailto:admin@zefir.codes" target="_blank" class="card-footer-item" ><button class="button" style="width:90%";>Contact me</button></a>
+      <a href="mailto:admin@zefir.co.uk" target="_blank" class="card-footer-item" ><button class="button" style="width:90%";>Contact me</button></a>
   </footer>
 </div>
 <!--About Card-->

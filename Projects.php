@@ -310,6 +310,33 @@ An annoying piece of malware, that roots itself within the registry with random 
     </div>
     <!--Stappwatch-->
     <br/>
+    <!--Curtain-->
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
+      <header class="card-header">
+        <p class="card-header-title">
+          Curtain
+        </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">CSS</span>
+      <span class="tag is-success">Release</span>
+    </div>
+  </div>
+    </div>
+      </header>
+      <div class="card-content">
+        <div class="content">
+    A CSS Project demonstrating a creative UI design
+          <br>
+        </div>
+      </div>
+      <footer class="card-footer">
+        <a href="/curtain" target="_blank" class="card-footer-item"><button class="button is-warning" style="width:90%;">Launch</button></a>
+      </footer>
+    </div>
+    <!--Curtain-->
+    <br/>
     <!--NeoGaeilge-->
     <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">
