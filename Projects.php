@@ -159,6 +159,34 @@
       </footer>
     </div>
     <!--MsgCrypt-->
+    <br/>
+        <!--HoneyMine-->
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
+      <header class="card-header">
+        <p class="card-header-title">
+          HoneyMine
+        </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">C#</span>
+      <span class="tag is-danger">Not Supported</span>
+    </div>
+  </div>
+    </div>
+      </header>
+      <div class="card-content">
+        <div class="content">
+          A desktop monero CPU miner with CoinHive API integration. The project runs by utilizing a lite version of the chromium layer and the CoinHive API for mining. You can control all the mining preferences and intencity in the coinhive dashboard.
+          <br>
+        </div>
+      </div>
+      <footer class="card-footer">
+        <a href="https://github.com/GreenVortex/HoneyMine/archive/master.zip" class="card-footer-item"><button class="button is-dark" style="width:90%;">Download</button></a>
+        <a href="https://github.com/greenvortex/HoneyMine" class="card-footer-item"><button class="button is-dark" style="width:90%";>Github</button></a>
+      </footer>
+    </div>
+    <!--HoneyMine-->
 
   </div>
   <div class="column is-one-third">
@@ -337,6 +365,33 @@ An annoying piece of malware, that roots itself within the registry with random 
     </div>
     <!--Curtain-->
     <br/>
+    <!--Dungeons and dice-->
+    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
+      <header class="card-header">
+        <p class="card-header-title">
+          Dungeons and Dice
+        </p>
+        <div class="field is-grouped is-grouped-multiline">
+  <div class="control">
+    <div class="tags has-addons">
+      <span class="tag is-dark">JS</span>
+      <span class="tag is-warning">In Development</span>
+    </div>
+  </div>
+    </div>
+      </header>
+      <div class="card-content">
+        <div class="content">
+    An app designed to help the roleplaying community with a compact all in one solution for their lore, characters and dice rolling needs. 
+          <br>
+        </div>
+      </div>
+      <footer class="card-footer">
+        <a href="/dungeon" target="_blank" class="card-footer-item"><button class="button is-warning" style="width:90%;">Launch</button></a>
+      </footer>
+    </div>
+    <!--Dungeons and dice-->
+    <br/>
     <!--NeoGaeilge-->
     <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">
@@ -365,33 +420,6 @@ An annoying piece of malware, that roots itself within the registry with random 
     </div>
     <!--NeoGaeilge-->
     <br/>
-    <!--HoneyMine-->
-    <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
-      <header class="card-header">
-        <p class="card-header-title">
-          HoneyMine
-        </p>
-        <div class="field is-grouped is-grouped-multiline">
-  <div class="control">
-    <div class="tags has-addons">
-      <span class="tag is-dark">C#</span>
-      <span class="tag is-danger">Not Supported</span>
-    </div>
-  </div>
-    </div>
-      </header>
-      <div class="card-content">
-        <div class="content">
-          A desktop monero CPU miner with CoinHive API integration. The project runs by utilizing a lite version of the chromium layer and the CoinHive API for mining. You can control all the mining preferences and intencity in the coinhive dashboard.
-          <br>
-        </div>
-      </div>
-      <footer class="card-footer">
-        <a href="https://github.com/GreenVortex/HoneyMine/archive/master.zip" class="card-footer-item"><button class="button is-dark" style="width:90%;">Download</button></a>
-        <a href="https://github.com/greenvortex/HoneyMine" class="card-footer-item"><button class="button is-dark" style="width:90%";>Github</button></a>
-      </footer>
-    </div>
-    <!--HoneyMine-->
   </div>
 </div>
 <!--Content end-->
