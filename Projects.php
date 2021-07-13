@@ -4,6 +4,11 @@
 <link rel="stylesheet" href="css/font-awesome.css">
 <link rel="stylesheet" href="css/index-min.css">
 <link rel="stylesheet" href="css/animate.css">
+<!-- GitShow -->
+<link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/>
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"> </script>
+<!-- GitShow -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -39,6 +44,29 @@
       <h2 class="subtitle">
         A collection of my past, ongoing and prototype projects!
       </h2>
+      <!--GitShow-->
+      <!-- Include the library. -->
+
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    <!-- Loading stuff -->
+    Fetching Github Data
+</div>
+
+<script>
+    GitHubCalendar(".calendar", "greenvortex");
+
+    // Enabling responsive functionality
+    GitHubCalendar(".calendar", "greenvortex", { responsive: true });
+
+    // Enabling Proxy
+    GitHubCalendar(".calendar", "greenvortex", {
+       proxy (username) {
+         return fetch(`https://your-proxy.com/github?user=${username}`)
+       }
+    }).then(r => r.text())
+</script>
+      <!--GitShow-->
     </div>
   </div>
 </section>
