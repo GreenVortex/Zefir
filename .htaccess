@@ -8,4 +8,5 @@ RewriteCond %{HTTP_REFERER} !^https://www.zefir.co.uk/.*$      [NC]
 RewriteCond %{HTTP_REFERER} !^https://www.zefir.co.uk$      [NC]
 RewriteCond %{HTTP_REFERER} !^https://zefir.co.uk/.*$      [NC]
 RewriteCond %{HTTP_REFERER} !^https://zefir.co.uk$      [NC]
-RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ https://www.iconspng.com/uploads/troll-face/troll-face.png [R,NC]
+

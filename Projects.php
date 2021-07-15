@@ -6,8 +6,7 @@
 <link rel="stylesheet" href="css/animate.css">
 <!-- GitShow -->
 <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/>
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"> </script>
+<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"> </script>
 <!-- GitShow -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,9 +43,8 @@
       <h2 class="subtitle">
         A collection of my past, ongoing and prototype projects!
       </h2>
+      
       <!--GitShow-->
-      <!-- Include the library. -->
-
 <!-- Prepare a container for your calendar. -->
 <div class="calendar">
     <!-- Loading stuff -->
@@ -410,7 +408,7 @@ An annoying piece of malware, that roots itself within the registry with random 
       </header>
       <div class="card-content">
         <div class="content">
-    An app designed to help the roleplaying community with a compact all in one solution for their lore, characters and dice rolling needs. 
+    An app designed to help the roleplaying community with a compact all in one solution for their lore, characters and dice rolling needs.
           <br>
         </div>
       </div>

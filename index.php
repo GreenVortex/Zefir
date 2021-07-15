@@ -5,7 +5,6 @@
 <link rel="stylesheet" href="css/index-min.css">
 <link rel="stylesheet" href="css/animate.css">
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body style="overflow-x:hidden;">
@@ -111,7 +110,7 @@ Updates
     </div>
   </div>
 </div>
-           <!--news2-->
+<!--news2-->
 
 </div>
 </div>
@@ -122,7 +121,7 @@ Updates
   <div class="container">
     <div class="content has-text-centered">
       <p>
-        Zefir Repository is a collection of projects and services by <strong><a href="https://www.linkedin.com/">Jan Andersson</a></strong> Hosted on <a href="https://secure.ecohosting.co.uk/aff.php?aff=152&gid=28"><strong>EcoHost</strong>.<a/>
+        Zefir Repository is a collection of projects and services by <strong><a href="https://www.linkedin.com/in/typicaljohan/">Jan Andersson</a></strong> Hosted on <a href="https://secure.ecohosting.co.uk/aff.php?aff=152&gid=28"><strong>EcoHost</strong>.<a/>
       </p>
     </div>
   </div>
