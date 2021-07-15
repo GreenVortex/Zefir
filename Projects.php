@@ -43,7 +43,7 @@
       <h2 class="subtitle">
         A collection of my past, ongoing and prototype projects!
       </h2>
-      
+
       <!--GitShow-->
 <!-- Prepare a container for your calendar. -->
 <div class="calendar">
@@ -456,6 +456,7 @@ An annoying piece of malware, that roots itself within the registry with random 
       <p>
         Zefir Repository is a collection of projects and services by <strong><a href="https://www.linkedin.com/in/typicaljohan/">Jan Andersson</a></strong> Hosted on <a href="https://secure.ecohosting.co.uk/aff.php?aff=152&gid=28"><strong>EcoHost</strong>.<a/>
       </p>
+      <strong><a href="Policy.php">Privacy Policy</a></strong>
     </div>
   </div>
 </footer>

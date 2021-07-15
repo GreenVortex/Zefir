@@ -123,6 +123,7 @@ Updates
       <p>
         Zefir Repository is a collection of projects and services by <strong><a href="https://www.linkedin.com/in/typicaljohan/">Jan Andersson</a></strong> Hosted on <a href="https://secure.ecohosting.co.uk/aff.php?aff=152&gid=28"><strong>EcoHost</strong>.<a/>
       </p>
+      <strong><a href="Policy.php">Privacy Policy</a></strong>
     </div>
   </div>
 </footer>
