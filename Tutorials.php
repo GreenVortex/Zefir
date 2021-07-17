@@ -33,7 +33,6 @@
 <!--Page Content-->
 <div class="animated zoomIn">
 <div class="container is-fluid">
-
 <!--Ruby Coarses-->
 <section class="hero is-danger">
   <div class="hero-body">
@@ -69,7 +68,6 @@
           <p class="subtitle">Learning the basics using Interactive Ruby Shell</p>
 		  <a href="tutorials/Ruby003.php" class="button is-danger is-inverted is-outlined">Start Tutorial</a>
 		  </article>
-
       </div>
 </footer>
 <footer class="footer">

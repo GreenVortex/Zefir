@@ -129,7 +129,7 @@
     </div>
     <!--Verdugo-->
     <br/>
-
+    
     <!--IPCatcher-->
     <div class="card animated zoomIn" style="width: 75%;height: 20%px;margin: auto;">
       <header class="card-header">

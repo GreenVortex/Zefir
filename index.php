@@ -94,6 +94,7 @@ Updates
     </div>
   </div>
 </div>
+<!--news1-->
 </br>
 <!--news2-->
 <div class="card">
@@ -111,6 +112,23 @@ Updates
   </div>
 </div>
 <!--news2-->
+</br>
+<!--news3-->
+<div class="card">
+  <header class="card-header">
+    <p class="card-header-title">Upscale maintenance finished
+    </p>
+    <a href="#" class="card-header-icon" aria-label="more options">
+    </a>
+  </header>
+  <div class="card-content">
+    <div class="content">Added a website privacy policy so now it's up and running in accordance with the GDPR policies.
+      <br>
+      <time datetime="2020-29-05">7:17 pm - 17 July 2021</time>
+    </div>
+  </div>
+</div>
+<!--news3-->
 
 </div>
 </div>
