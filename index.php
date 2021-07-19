@@ -116,7 +116,7 @@ Updates
 <!--news3-->
 <div class="card">
   <header class="card-header">
-    <p class="card-header-title">Upscale maintenance finished
+    <p class="card-header-title">Making public private!
     </p>
     <a href="#" class="card-header-icon" aria-label="more options">
     </a>
