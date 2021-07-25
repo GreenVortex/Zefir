@@ -6,8 +6,6 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="msapplication-tap-highlight" content="no">
     <title>Dungeons and Dice</title>
-    <link rel="stylesheet" href="lib/framework7/css/framework7.material.css">
-    <link rel="stylesheet" href="lib/framework7/css/framework7.material.colors.css">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/Tweaks.css">
     <link href="https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap" rel="stylesheet">
@@ -17,53 +15,26 @@
     <script src="js/uikit-icons.min.js"></script>
     <script src="js/CoreFunctionality.js"></script>
 </head>
-<body class="theme-dark">
+<body>
+<div>
+    <div id="Main">
+      <center>
+        <h1 class="animate__animated animate__pulse" id="GenNum">Number</h1>
+        <img id="Dice" class="animate__animated animate__wobble animate__slow animate__delay-1s" src="img/dice.svg" height="300px" width="300px" onclick="Dice();">
+      </center>
 
-    <div class="statusbar-overlay"></div>
-    <div class="panel-overlay"></div>
-    <div class="panel panel-left panel-reveal">
-      <!--Panel content -->
-
+      <div class="footer">
+            <center>
+            <img id="D4" class="animate__animated" src="img/D4.svg" height="100%" width="32%"onclick="D4()">
+            <img id="D6" class="animate__animated" src="img/D6.svg" height="100%" width="32%" onclick="D6()">
+            <img id="D8" class="animate__animated" src="img/D8.svg" height="100%" width="32%" onclick="D8()">
+            <img id="D10" class="animate__animated" src="img/D10.svg" height="100%" width="32%" onclick="D10()">
+            <img id="D12" class="animate__animated" src="img/D12.svg" height="100%" width="32%" onclick="D12()">
+            <img id="D20" class="animate__animated" src="img/D20.svg" height="100%" width="32%" onclick="D20()">
+          </center>
+      </div>
     </div>
-
-    <div class="views">
-        <div class="view view-main">
-            <div class="navbar">
-                <div class="navbar-inner">
-                  <div class="left">
-                      <a href="#" class="link icon-only open-panel"><i class="icon icon-bars"></i></a>
-                  </div>
-                    <div id="gerry" class="sliding middle">Dungeons and Dice</div>
-                </div>
-            </div>
-            <div class="pages navbar-through toolbar-through">
-                <div data-page="index" class="page">
-                    <div class="page-content">
-                        <div class="content-block">
-                            <div id="MiddleGround">
-                            <center>  <h1 class="animated pulse delay-1s" id="GenNum">Number</h1> </center>
-                              <img class="animated wobble slow delay-1s" src="img/dice.png" height="300px" width="300px" onclick="javascript:NumGen();">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="toolbar">
-                  <center>
-                  <img src="img/D4.svg" height="100%" width="50" onclick="DiceNumber = 4;">
-                  <img src="img/D6.svg" height="100%" width="50" onclick="DiceNumber = 6;">
-                  <img src="img/D8.svg" height="100%" width="50" onclick="DiceNumber = 8;">
-                  <img src="img/D10.svg" height="100%" width="50" onclick="DiceNumber = 10;">
-                  <img src="img/D12.svg" height="100%" width="50" onclick="DiceNumber = 12;">
-                  <img src="img/D20.svg" height="100%" width="50" onclick="DiceNumber = 20;">
-                </center>
-            </div>
-        </div>
-    </div>
-
-    <script type="text/javascript" src="cordova.js"></script>
-    <script type="text/javascript" src="lib/framework7/js/framework7.min.js"></script>
-    <script type="text/javascript" src="js/my-app.js"></script>
+</div>
 </body>
 
 </html>

@@ -1,3 +1,29 @@
+#Main {
+  position: absolute;
+  width: 300px;
+  height: 400px;
+  z-index: 15;
+  top: 25%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
+  background-color: inherit;
+}
+#GenNum {
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 75px;
+  color: #2196f3;
+}
+#gerry {
+  font-family: 'Julius Sans One', sans-serif;
+  color: white;
+}
+#Slider{
+  color: #2196f3;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 20px;
+}
+
 #MiddleGround {
   position: absolute;
   width: 300px;
@@ -6,22 +32,4 @@
   top: 30%;
   left: 50%;
   margin: -100px 0 0 -150px;
-}
-#GenNum {
-text-align: center;
-font-family: 'Julius Sans One', sans-serif;
-font-size: 75px;
-color: #2196f3;
-}
-#gerry {
-font-family: 'Julius Sans One', sans-serif;
-color: white;
-}
-#Slider{
-color: #2196f3;
-font-family: 'Julius Sans One', sans-serif;
-font-size: 20px;
-}
-#ContainerDice{
-
 }
