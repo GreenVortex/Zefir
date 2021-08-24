@@ -3,7 +3,7 @@
   width: 300px;
   height: 400px;
   z-index: 15;
-  top: 25%;
+  top: 18%;
   left: 50%;
   margin: -100px 0 0 -150px;
   background-color: inherit;
@@ -12,7 +12,9 @@
   text-align: center;
   font-family: 'Julius Sans One', sans-serif;
   font-size: 75px;
-  color: #2196f3;
+  color: #9cccb2;
+  border-radius: 25px;
+  background: gray;
 }
 #gerry {
   font-family: 'Julius Sans One', sans-serif;
@@ -31,5 +33,11 @@
   z-index: 15;
   top: 30%;
   left: 50%;
-  margin: -100px 0 0 -150px;
+  margin: -100px 0 0 -150px;;
+}
+
+#footer{
+  border-radius: 25px;
+  background: gray;
+  padding: 20px;
 }
