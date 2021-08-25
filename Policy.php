@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="./Policy_files/livelink.css">
 <meta name="robots" content="noindex">
-<script type="text/javascript" async="" src="./Policy_files/analytics.js.download"></script><script async="" src="./Policy_files/js"></script>
+<script type="text/javascript" async="" src="./Policy_files/analytics.js"></script><script async="" src="./Policy_files/js"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -213,7 +213,7 @@ Privacy Policy for Zefir Repository
 </footer>
 
 </div>
-<script type="text/javascript" src="./Policy_files/jquery.min.js.download"></script>
+<script type="text/javascript" src="./Policy_files/jquery.min.js"></script>
 <script type="text/javascript" defer="">
     $(document).ready(function () {
         let language_label = $('.language_label');
@@ -254,6 +254,6 @@ Privacy Policy for Zefir Repository
 <script src="./Policy_files/js-code" type="text/javascript" async="true"></script>
 <script src="./Policy_files/js-data" type="text/javascript" async="true"></script>
 <img src="./Policy_files/px" style="position:fixed;right:0px;bottom:0px;display:none;">
-<script defer="" src="./Policy_files/beacon.min.js.download" data-cf-beacon="{&quot;rayId&quot;:&quot;66f316a91f51f2c0&quot;,&quot;token&quot;:&quot;dd281d4ac6a447be928fcee1746ec801&quot;,&quot;version&quot;:&quot;2021.6.0&quot;,&quot;si&quot;:10}"></script>
+<script defer="" src="./Policy_files/beacon.min.js" data-cf-beacon="{&quot;rayId&quot;:&quot;66f316a91f51f2c0&quot;,&quot;token&quot;:&quot;dd281d4ac6a447be928fcee1746ec801&quot;,&quot;version&quot;:&quot;2021.6.0&quot;,&quot;si&quot;:10}"></script>
 
 </body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>

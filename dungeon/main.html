@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -10,27 +10,26 @@
     <link rel="stylesheet" href="css/Tweaks.css">
     <link href="https://fonts.googleapis.com/css?family=Julius+Sans+One&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/uikit.min.css" />
+    <link rel="stylesheet" href="css/uikit.min.css"/>
     <script src="js/uikit.min.js"></script>
     <script src="js/uikit-icons.min.js"></script>
     <script src="js/CoreFunctionality.js"></script>
 </head>
 <body>
-    <div id="Main">
-      <center>
-        <h1 class="animate__animated animate__pulse" id="GenNum">0</h1>
-        <img id="Dice" class="animate__animated animate__wobble animate__slow animate__delay-1s" src="img/dice.svg" height="300px" width="300px" onclick="Dice();">
-      </center>
-      <div id="footer">
-            <center>
+<center>
+      <div id="Main">
+        <h1 class="animate__animated animate__pulse" id="DisplayDumber">0</h1>
+        <img id="Dice" class="animate__animated animate__wobble animate__slow animate__delay-1s" src="img/dice.svg" height="250px" width="250px" onclick="Dice();">
+        <h1 id="DisplayDice">D4</h1>
+        <div id="DiceContainer">
             <img id="D4" class="animate__animated" src="img/D4.svg" height="100%" width="32%" onclick="D4()">
             <img id="D6" class="animate__animated" src="img/D6.svg" height="100%" width="32%" onclick="D6()">
             <img id="D8" class="animate__animated" src="img/D8.svg" height="100%" width="32%" onclick="D8()">
             <img id="D10" class="animate__animated" src="img/D10.svg" height="100%" width="32%" onclick="D10()">
             <img id="D12" class="animate__animated" src="img/D12.svg" height="100%" width="32%" onclick="D12()">
             <img id="D20" class="animate__animated" src="img/D20.svg" height="100%" width="32%" onclick="D20()">
-          </center>
       </div>
     </div>
+</center>
 </body>
 </html>
